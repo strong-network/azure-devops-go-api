@@ -11,7 +11,7 @@ package feedtoken
 import (
 	"context"
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops"
+	"github.com/strong-network/azure-devops-go-api/azuredevops"
 	"net/http"
 )
 

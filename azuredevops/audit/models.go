@@ -10,7 +10,7 @@ package audit
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops"
+	"github.com/strong-network/azure-devops-go-api/azuredevops"
 )
 
 // Defines all the categories an AuditAction can be

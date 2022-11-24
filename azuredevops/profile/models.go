@@ -10,7 +10,7 @@ package profile
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops"
+	"github.com/strong-network/azure-devops-go-api/azuredevops"
 )
 
 // Identifies an attribute with a name and a container.
