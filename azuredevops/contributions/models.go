@@ -10,13 +10,8 @@ package contributions
 
 import (
 	"github.com/google/uuid"
-<<<<<<< HEAD
-	"github.com/strong-network/azure-devops-go-api/azuredevops"
-	"github.com/strong-network/azure-devops-go-api/azuredevops/gallery"
-=======
-	"github.com/strong-network/azure-devops-go-api/azuredevops"
-	"github.com/strong-network/azure-devops-go-api/azuredevops/gallery"
->>>>>>> a488a0a323616cb06afcd7d54b36eb698d590557
+	"github.com/microsoft/azure-devops-go-api/azuredevops"
+	"github.com/microsoft/azure-devops-go-api/azuredevops/gallery"
 )
 
 // Representation of a ContributionNode that can be used for serialized to clients.
