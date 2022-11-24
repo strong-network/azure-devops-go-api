@@ -10,12 +10,12 @@ package build
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6/core"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6/distributedtaskcommon"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6/git"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6/test"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6/webapi"
+	"github.com/microsoft/strong-network/azuredevops/v6"
+	"github.com/microsoft/strong-network/azuredevops/v6/core"
+	"github.com/microsoft/strong-network/azuredevops/v6/distributedtaskcommon"
+	"github.com/microsoft/strong-network/azuredevops/v6/git"
+	"github.com/microsoft/strong-network/azuredevops/v6/test"
+	"github.com/microsoft/strong-network/azuredevops/v6/webapi"
 )
 
 // Represents a queue for running builds.

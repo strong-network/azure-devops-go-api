@@ -13,8 +13,8 @@ package main
 
 import (
 	"context"
-	"github.com/microsoft/azure-devops-go-api/azuredevops"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/core"
+	"github.com/microsoft/strong-network/azuredevops"
+	"github.com/microsoft/strong-network/azuredevops/core"
 	"log"
 )
 

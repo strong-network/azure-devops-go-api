@@ -10,7 +10,7 @@ package filecontainer
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops"
+	"github.com/microsoft/strong-network/azuredevops"
 )
 
 // Status of a container item.

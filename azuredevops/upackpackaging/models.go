@@ -9,7 +9,7 @@
 package upackpackaging
 
 import (
-	"github.com/microsoft/azure-devops-go-api/azuredevops"
+	"github.com/microsoft/strong-network/azuredevops"
 )
 
 // Describes UPack batch operation types.

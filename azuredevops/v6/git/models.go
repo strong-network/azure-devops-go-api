@@ -10,10 +10,10 @@ package git
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6/core"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6/policy"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6/webapi"
+	"github.com/microsoft/strong-network/azuredevops/v6"
+	"github.com/microsoft/strong-network/azuredevops/v6/core"
+	"github.com/microsoft/strong-network/azuredevops/v6/policy"
+	"github.com/microsoft/strong-network/azuredevops/v6/webapi"
 )
 
 type AssociatedWorkItem struct {

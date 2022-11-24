@@ -13,7 +13,7 @@ import (
 	"context"
 	"encoding/json"
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops"
+	"github.com/microsoft/strong-network/azuredevops"
 	"net/http"
 	"net/url"
 	"strings"

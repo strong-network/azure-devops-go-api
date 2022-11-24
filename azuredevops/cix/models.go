@@ -10,7 +10,7 @@ package cix
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/core"
+	"github.com/microsoft/strong-network/azuredevops/core"
 )
 
 type BuildFrameworkDetectionType string

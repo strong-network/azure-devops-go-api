@@ -9,9 +9,9 @@
 package npm
 
 import (
-	"github.com/microsoft/azure-devops-go-api/azuredevops"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/packagingshared"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/webapi"
+	"github.com/microsoft/strong-network/azuredevops"
+	"github.com/microsoft/strong-network/azuredevops/packagingshared"
+	"github.com/microsoft/strong-network/azuredevops/webapi"
 )
 
 // Data required to deprecate multiple package versions. Pass this while performing NpmBatchOperationTypes.Deprecate batch operation.
