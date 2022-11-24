@@ -9,9 +9,15 @@
 package universal
 
 import (
+<<<<<<< HEAD
 	"github.com/strong-network/azure-devops-go-api/azuredevops"
 	"github.com/strong-network/azure-devops-go-api/azuredevops/packagingshared"
 	"github.com/strong-network/azure-devops-go-api/azuredevops/webapi"
+=======
+	"github.com/strong-network/azure-devops-go-api/azuredevops"
+	"github.com/strong-network/azure-devops-go-api/azuredevops/packagingshared"
+	"github.com/strong-network/azure-devops-go-api/azuredevops/webapi"
+>>>>>>> a488a0a323616cb06afcd7d54b36eb698d590557
 )
 
 // Package version metadata for a Universal package

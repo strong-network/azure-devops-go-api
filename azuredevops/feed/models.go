@@ -10,7 +10,11 @@ package feed
 
 import (
 	"github.com/google/uuid"
+<<<<<<< HEAD
 	"github.com/strong-network/azure-devops-go-api/azuredevops"
+=======
+	"github.com/strong-network/azure-devops-go-api/azuredevops"
+>>>>>>> a488a0a323616cb06afcd7d54b36eb698d590557
 )
 
 // Type of operation last performed.

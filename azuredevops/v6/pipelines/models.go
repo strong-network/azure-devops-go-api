@@ -9,8 +9,13 @@
 package pipelines
 
 import (
+<<<<<<< HEAD
 	"github.com/strong-network/azure-devops-go-api/azuredevops/v6"
 	"github.com/strong-network/azure-devops-go-api/azuredevops/v6/webapi"
+=======
+	"github.com/strong-network/azure-devops-go-api/azuredevops/v6"
+	"github.com/strong-network/azure-devops-go-api/azuredevops/v6/webapi"
+>>>>>>> a488a0a323616cb06afcd7d54b36eb698d590557
 )
 
 // Artifacts are collections of files produced by a pipeline. Use artifacts to share files between stages in a pipeline or between different pipelines.

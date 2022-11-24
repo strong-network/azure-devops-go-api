@@ -9,7 +9,11 @@
 package upackpackaging
 
 import (
+<<<<<<< HEAD
 	"github.com/strong-network/azure-devops-go-api/azuredevops"
+=======
+	"github.com/strong-network/azure-devops-go-api/azuredevops"
+>>>>>>> a488a0a323616cb06afcd7d54b36eb698d590557
 )
 
 // Describes UPack batch operation types.

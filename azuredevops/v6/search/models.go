@@ -10,7 +10,11 @@ package search
 
 import (
 	"github.com/google/uuid"
+<<<<<<< HEAD
 	"github.com/strong-network/azure-devops-go-api/azuredevops/v6/searchshared"
+=======
+	"github.com/strong-network/azure-devops-go-api/azuredevops/v6/searchshared"
+>>>>>>> a488a0a323616cb06afcd7d54b36eb698d590557
 )
 
 // Defines the Board result that matched a Board search request.

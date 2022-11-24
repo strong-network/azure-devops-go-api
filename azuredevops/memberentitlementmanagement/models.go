@@ -10,12 +10,21 @@ package memberentitlementmanagement
 
 import (
 	"github.com/google/uuid"
+<<<<<<< HEAD
 	"github.com/strong-network/azure-devops-go-api/azuredevops"
 	"github.com/strong-network/azure-devops-go-api/azuredevops/commerce"
 	"github.com/strong-network/azure-devops-go-api/azuredevops/graph"
 	"github.com/strong-network/azure-devops-go-api/azuredevops/licensing"
 	"github.com/strong-network/azure-devops-go-api/azuredevops/licensingrule"
 	"github.com/strong-network/azure-devops-go-api/azuredevops/operations"
+=======
+	"github.com/strong-network/azure-devops-go-api/azuredevops"
+	"github.com/strong-network/azure-devops-go-api/azuredevops/commerce"
+	"github.com/strong-network/azure-devops-go-api/azuredevops/graph"
+	"github.com/strong-network/azure-devops-go-api/azuredevops/licensing"
+	"github.com/strong-network/azure-devops-go-api/azuredevops/licensingrule"
+	"github.com/strong-network/azure-devops-go-api/azuredevops/operations"
+>>>>>>> a488a0a323616cb06afcd7d54b36eb698d590557
 )
 
 type BaseOperationResult struct {

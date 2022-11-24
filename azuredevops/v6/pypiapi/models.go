@@ -9,9 +9,15 @@
 package pypiapi
 
 import (
+<<<<<<< HEAD
 	"github.com/strong-network/azure-devops-go-api/azuredevops/v6"
 	"github.com/strong-network/azure-devops-go-api/azuredevops/v6/packagingshared"
 	"github.com/strong-network/azure-devops-go-api/azuredevops/v6/webapi"
+=======
+	"github.com/strong-network/azure-devops-go-api/azuredevops/v6"
+	"github.com/strong-network/azure-devops-go-api/azuredevops/v6/packagingshared"
+	"github.com/strong-network/azure-devops-go-api/azuredevops/v6/webapi"
+>>>>>>> a488a0a323616cb06afcd7d54b36eb698d590557
 )
 
 // Package version metadata for a Python package

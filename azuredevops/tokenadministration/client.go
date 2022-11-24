@@ -13,9 +13,15 @@ import (
 	"context"
 	"encoding/json"
 	"github.com/google/uuid"
+<<<<<<< HEAD
 	"github.com/strong-network/azure-devops-go-api/azuredevops"
 	"github.com/strong-network/azure-devops-go-api/azuredevops/delegatedauthorization"
 	"github.com/strong-network/azure-devops-go-api/azuredevops/tokenadmin"
+=======
+	"github.com/strong-network/azure-devops-go-api/azuredevops"
+	"github.com/strong-network/azure-devops-go-api/azuredevops/delegatedauthorization"
+	"github.com/strong-network/azure-devops-go-api/azuredevops/tokenadmin"
+>>>>>>> a488a0a323616cb06afcd7d54b36eb698d590557
 	"net/http"
 	"net/url"
 	"strconv"
