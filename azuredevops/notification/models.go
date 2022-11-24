@@ -10,9 +10,9 @@ package notification
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/forminput"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/webapi"
+	"github.com/strong-network/azure-devops-go-api/azuredevops"
+	"github.com/strong-network/azure-devops-go-api/azuredevops/forminput"
+	"github.com/strong-network/azure-devops-go-api/azuredevops/webapi"
 )
 
 type ActorFilter struct {

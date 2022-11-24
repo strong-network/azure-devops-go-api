@@ -10,7 +10,7 @@ package task
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops"
+	"github.com/strong-network/azure-devops-go-api/azuredevops"
 )
 
 type Issue struct {
