@@ -1,4 +1,4 @@
-module github.com/microsoft/azure-devops-go-api/azuredevops
+module github.com/strong-network/azure-devops-go-api/azuredevops
 
 go 1.12
 
